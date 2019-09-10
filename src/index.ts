@@ -24,7 +24,6 @@ export const storage = {
     ]
 }
 
-
 export const srcPath = __dirname
 const PORT = process.env.PORT || 3000;
 
