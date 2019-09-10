@@ -1,8 +1,5 @@
 import {TestController} from "./controller/TestController";
 import {UrlController} from "./controller/UrlController";
-// import { SubmitLinkComponent } from "../../BitlyCloneAssignment/src/app/submit-link/submit-link.component";
-
-
 
 export const Routes = [{
     method: "get",
